@@ -73,5 +73,4 @@ w-filters, voir les filtres.
 ping, voir la latence du bot.
 help, voir la liste des commandes disponibles.
 debug, voir le nombre de connexions vocales.
-```vv
-
+```
