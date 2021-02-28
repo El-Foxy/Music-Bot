@@ -2,8 +2,8 @@
   "name": "music-bot",
   "version": "3.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ZerioDev/Music-bot.git",
-  "author": "ZerioDev",
+  "repository": "https://github.com/El-Foxy/Music-bot.git",
+  "author": "El Foxy",
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
